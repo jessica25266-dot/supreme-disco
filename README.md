@@ -1,2 +1,2 @@
 # supreme-disco
-repositorio de prueba
+repositorio de personal
