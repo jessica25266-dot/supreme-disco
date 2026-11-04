@@ -1,2 +1,2 @@
 # supreme-disco
-repositorio de personal
+repositorio personal
